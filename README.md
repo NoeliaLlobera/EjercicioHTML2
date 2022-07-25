@@ -1,1 +1,2 @@
-# EjercicioHTML2
+# Ejercicio HTML 2
+Clona la siguiente web (Mozilla)
